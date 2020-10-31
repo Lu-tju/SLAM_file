@@ -5,5 +5,3 @@
 		<param name="config_file" value="~/catkin_ws/src/VINS-Fusion/config/realsense_d435i/realsense_stereo_imu_config.yaml""/>
 	</node-->	
 </launch>
-
-z
