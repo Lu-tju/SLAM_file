@@ -1,7 +1,0 @@
-<launch>
-	<include file="$(find realsense2_camera)/launch/rs_camera_vins.launch"/>	
-	<include file="$(find vins)/launch/vins_rviz.launch"/>
-	<!--node pkg="vins" type="vins_node" name="vins_node">
-		<param name="config_file" value="~/catkin_ws/src/VINS-Fusion/config/realsense_d435i/realsense_stereo_imu_config.yaml""/>
-	</node-->	
-</launch>
